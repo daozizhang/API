@@ -1,0 +1,4 @@
+[2022-09-02  14:31:16.458] loginpage.py -> login line:33 [INFO] : 登录成功，进入页面url:https://roms-admin-test.ifyou.net/#/opManage/serviceProvider
+
+[2022-09-02  14:31:16.458] test_login.py -> test_login line:43 [INFO] : 【登录成功】测试--PASS
+

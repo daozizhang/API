@@ -1,0 +1,3 @@
+[2022-09-02  17:56:02.420] loginpage.py -> login line:28 [INFO] : 用户名错误
+[2022-09-02  17:56:02.431] test_login.py -> test_login line:42 [INFO] : 【用户名错误】测试用例--PASS
+

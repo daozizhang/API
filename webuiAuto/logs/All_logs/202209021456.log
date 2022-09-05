@@ -1,0 +1,4 @@
+[2022-09-02  14:56:25.963] loginpage.py -> login line:39 [INFO] : phone_text:请输入手机号！
+[2022-09-02  14:56:25.964] loginpage.py -> login line:40 [INFO] : 请输入手机号
+[2022-09-02  14:56:25.964] test_login.py -> test_login line:42 [INFO] : 【用户名为空】测试--PASS
+

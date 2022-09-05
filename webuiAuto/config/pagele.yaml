@@ -1,0 +1,8 @@
+Login:
+  user : ["xpath",'//input[@placehdiv[contains(text(),"请输入验证码")]']
+  phone: ['xpath','//p[contains(text(),"请输入手机号")]']
+  userwrong: ['older="请输入手机号"]']
+  verify: ['xpath','//span[text()="获取验证码"]']
+  load: ['xpath','//span[text()="登录"]']
+  checkcode: ['xpath','//xpath','//p[contains(text(),"不可用")]']
+  login_alert: ['xpath','//p[@class="el-message__content"]']

@@ -1,0 +1,28 @@
+#-
+#  testcase: "登录成功"
+#  url: "https://roms-admin-test.ifyou.net/#/login1"
+#  username: 13900000001
+#  checkcode: 1
+#  #login_url: "https://roms-admin-test.ifyou.net/#/opManage/serviceProvider"
+#  expect: "https://roms-admin-test.ifyou.net/#/opManage/serviceProvider"
+
+#-
+#  testcase: "用户名为空"
+#  url: "https://roms-admin-test.ifyou.net/#/login1"
+#  username: ""
+#  checkcode: 1
+#  expect: "请输入手机号！"
+#
+#-
+#  testcase: "验证码为空"
+#  url: "https://roms-admin-test.ifyou.net/#/login1"
+#  username: 13900000001
+#  checkcode: ""
+#  expect: "请输入验证码！"
+
+-
+  testcase: "用户名错误"
+  url: "https://roms-admin-test.ifyou.net/#/login1"
+  username: "13099990000"
+  checkcode: 1
+  expect: "不可用"

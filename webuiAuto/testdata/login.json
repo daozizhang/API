@@ -1,0 +1,15 @@
+{
+  "登录成功": {
+    "url": "https://roms-admin-test.ifyou.net/#/login1",
+    "username": 13082250001,
+    "title": "如果-入网应用"
+  },
+  "用户名为空": {
+    "url": "https://roms-admin-test.ifyou.net/#/login",
+    "username": 13082250102,
+    "title": "如果-入网应用",
+    "locator":"//div[text()=\"手机号不能为空!\"]"
+
+  }
+}
+
