@@ -1,0 +1,2 @@
+[2022-09-05  15:34:48.983] base.py -> equal line:111 [ERROR] : 失败原因：eval() arg 1 must be a string, bytes or code object
+[2022-09-05  15:34:57.222] base.py -> equal line:118 [ERROR] : 操作成功 != None ->断言失败--FAIL

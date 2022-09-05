@@ -1,0 +1,5 @@
+[2022-09-05  15:35:24.187] base.py -> post_method line:39 [INFO] : case_id:1 - 登录测试
+[2022-09-05  15:35:24.257] base.py -> post_method line:47 [INFO] : 请求体-->{"account": "18988889999", "accountType": 1, "cerificationType": 2}
+[2022-09-05  15:35:24.258] base.py -> post_method line:48 [INFO] : 响应体-->{'code': 200, 'success': 1, 'message': '操作成功', 'data': {'smsCode': '8027'}, 'time': 1662363324246, 'traceId': '4a6584cc-ba33-4a5a-ba04-4613e83965d5'}
+[2022-09-05  15:35:32.779] base.py -> equal line:109 [INFO] : row:1--pass
+[2022-09-05  15:35:32.779] base.py -> equal line:118 [ERROR] : 操作成功 != None ->断言失败--FAIL

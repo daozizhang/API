@@ -1,0 +1,5 @@
+[2022-09-05  15:34:40.837] base.py -> post_method line:39 [INFO] : case_id:1 - 登录测试
+[2022-09-05  15:34:40.933] base.py -> post_method line:47 [INFO] : 请求体-->{"account": "18988889999", "accountType": 1, "cerificationType": 2}
+[2022-09-05  15:34:40.933] base.py -> post_method line:48 [INFO] : 响应体-->{'code': 200, 'success': 1, 'message': '操作成功', 'data': {'smsCode': '1260'}, 'time': 1662363280921, 'traceId': '1816e4c5-d474-4485-a448-614860ce890f'}
+[2022-09-05  15:34:48.983] base.py -> equal line:111 [ERROR] : 失败原因：eval() arg 1 must be a string, bytes or code object
+[2022-09-05  15:34:57.222] base.py -> equal line:118 [ERROR] : 操作成功 != None ->断言失败--FAIL

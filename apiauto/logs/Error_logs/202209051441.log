@@ -1,0 +1,2 @@
+[2022-09-05  14:41:06.497] base.py -> equal line:108 [ERROR] : 失败原因：
+[2022-09-05  14:41:06.497] base.py -> equal line:115 [ERROR] : 操作成功 != None ->断言失败--FAIL

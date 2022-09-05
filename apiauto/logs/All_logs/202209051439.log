@@ -1,0 +1,12 @@
+[2022-09-05  14:39:42.781] test_roms.py -> test_login_1_get_verifycode line:27 [INFO] : case_id:1.0
+[2022-09-05  14:39:42.782] test_roms.py -> test_login_1_get_verifycode line:28 [INFO] : case_details:获取验证码
+[2022-09-05  14:39:42.782] test_roms.py -> test_login_1_get_verifycode line:29 [INFO] : 请求的url：https://cloud-gateway-test.ifyou.net/uc/api/code/getsms
+[2022-09-05  14:39:42.782] test_roms.py -> test_login_1_get_verifycode line:30 [INFO] : 请求体-->{
+  "account": "18988889999",
+  "accountType": 1,
+  "cerificationType": 2
+}
+[2022-09-05  14:39:42.895] test_roms.py -> test_login_1_get_verifycode line:32 [INFO] : 响应消息体-->{'code': 200, 'success': 1, 'message': '操作成功', 'data': {'smsCode': '4900'}, 'time': 1662359982882, 'traceId': 'e807a314-72ce-468e-b152-02bc17476001'}
+[2022-09-05  14:39:42.905] test_roms.py -> test_login_1_get_verifycode line:34 [INFO] : 响应成功-PASS
+
+

@@ -1,0 +1,14 @@
+[2022-09-05  16:03:07.598] base.py -> post_method line:39 [INFO] : case_id:1 - 登录测试
+[2022-09-05  16:03:07.723] base.py -> post_method line:47 [INFO] : 请求体-->{"account": "18988889999", "accountType": 1, "cerificationType": 2}
+[2022-09-05  16:03:07.723] base.py -> post_method line:48 [INFO] : 响应体-->{'code': 200, 'success': 1, 'message': '操作成功', 'data': {'smsCode': '2899'}, 'time': 1662364987714, 'traceId': '5cffb495-2f48-4fee-9dc8-1908aaf67ff2'}
+[2022-09-05  16:03:11.831] base.py -> equal line:111 [ERROR] : 失败原因：[Errno 13] Permission denied: 'D:\\Program\\pythonProject\\apiauto\\testdata\\roms.xlsx'
+[2022-09-05  16:03:16.305] base.py -> equal line:120 [INFO] : 操作成功 == None  ->响应成功-PASS
+
+
+[2022-09-05  16:03:24.891] base.py -> post_method line:39 [INFO] : case_id:1 - 登录测试
+[2022-09-05  16:03:24.956] base.py -> post_method line:47 [INFO] : 请求体-->{"account": "18988889999", "accountType": 1, "cerificationType": 2}
+[2022-09-05  16:03:24.957] base.py -> post_method line:48 [INFO] : 响应体-->{'code': 200, 'success': 1, 'message': '操作成功', 'data': {'smsCode': '7043'}, 'time': 1662365004947, 'traceId': 'bcbd9769-24c9-4ad9-8119-f93940b11579'}
+[2022-09-05  16:03:33.011] base.py -> equal line:109 [INFO] : row:1--pass
+[2022-09-05  16:03:33.012] base.py -> equal line:120 [INFO] : 操作成功 == None  ->响应成功-PASS
+
+

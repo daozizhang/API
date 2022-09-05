@@ -1,0 +1,2 @@
+[2022-09-05  15:28:52.545] base.py -> equal line:111 [ERROR] : 失败原因：[Errno 13] Permission denied: 'D:\\Program\\pythonProject\\apiauto\\testdata\\roms.xlsx'
+[2022-09-05  15:28:57.244] base.py -> equal line:118 [ERROR] : 操作成功 != None ->断言失败--FAIL
